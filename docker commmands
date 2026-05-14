@@ -1,0 +1,118 @@
+ 1  clear
+    2  ls
+    3  ls -l
+    4  sudo apt update
+    5  sudo apt install docker.io -y
+    6  vi Dockerfile1
+    7  vim Dockerfile1
+    8  vi Text1
+    9  apt get install vim
+   10  apt-get install vim
+   11  vim Dockerfile1
+   12  docker built -t mynginx
+   13  docker build -t mynginx
+   14  docekr -v
+   15  docker -v
+   16  docker build -t mynginx
+   17  docker build -t mynginx .
+   18  ls
+   19  mv Dockerfile1 Dockerfile
+   20  ls
+   21  docker build -t mynginx .
+   22  docker images
+   23  docker image ls
+   24  docker build -t mynginxsudhir .
+   25  docker image ls
+   26  ls
+   27  cat Dockerfile 
+   28  doceker images
+   29  docker images
+   30  docker build -t mynginx .
+   31  vim Dockerfile 
+   32  docker build -t mynginx .
+   33  docker images
+   34  clear
+   35  ls
+   36  docker version
+   37  docekr image la
+   38  docker image ls
+   39  docker images
+   40  nginx --version
+   41  nginx -version
+   42  vim Docerfile 
+   43  Docker build -t nginximage.
+   44  Docker build -t nginximage .
+   45  docker build -t nginximage .
+   46  docker images
+   47  docker login
+   48  ls -l
+   49  docker container ls
+   50  docker images
+   51  history
+   52  docker images
+   53  ls
+   54  Vim Dockerfile1
+   55  vim Dockerfile1
+   56  ls
+   57  vim Dockerfile1
+   58  cat dockerfile1
+   59  ls
+   60  cat Dockerfile1 
+   61  docker build -f Dockerfile1 -t python-test:v1 .
+   62  docker log in
+   63  docker login
+   64  docker build -f Dockerfile1 -t python-test:v1 .
+   65  docker login
+   66  docker build -f Dockerfile1 -t python-test:v1 .
+   67  docker login
+   68  cat Dockerfile1 
+   69  vim Dockerfile1 
+   70  docker build -f Dockerfile1 -t python-test:v1 .
+   71  docker images
+   72  docker container 
+   73  docker container ls
+   74  docker run --name python-container python:3.11-slim
+   75  docekr container ls
+   76  docker container ls
+   77  docker ps
+   78  docker ps -a
+   79  docker run -it python:3.11-slim
+   80  docker ps
+   81  docker run -it python:3.11-slim /bin/bash
+   82  docker ps
+   83  docker ps -1
+   84  docker run -it --name python-container python:3.11-slim /bin/bash
+   85  docker exec -it python-container /bin/bash
+   86  nce:~# docker exec -it python-container /bin/bash
+   87  Error response from daemon: container 5596004b66018277b28da2834e4f7b9d5ff775add2bb2d8b2585394bf44773ee is not running
+   88  root@dockerintance:~# docker exec -it python-container /bin/bash
+   89  Error response from daemon: container 5596004b66018277b28da2834e4f7b9d5ff775add2bb2d8b2585394bf44773ee is not running
+   90  docker start python-container
+   91  docker ps
+   92  docker run -dit --name python-test python:3.11-slim /bin/bash
+   93  docker ps
+   94  ls
+   95  docker images
+   96  docker container
+   97  docker container ls
+   98  docker container ddf11ba34f6d sudhirimage
+   99  docker commit ddf11ba34f6d sudhirimage
+  100  docker images ls
+  101  docker image ls
+  102  docker save sudhirimage:latest >latest.tar
+  103  ls
+  104  docker container ls
+  105  docker container ddf11ba34f6d 
+  106  docker container ddf11ba34f6d
+  107  docker logs
+  108  docker logs ddf11ba34f6d
+  109  docker container ls
+  110  docker logs ddf11ba34f6d
+  111  docker stats ddf11ba34f6d
+  112  ls
+  113  docker stats ddf11ba34f6d
+  114  ls
+  115  docker images
+  116  docker image
+  117  doker system df
+  118  docker system df
